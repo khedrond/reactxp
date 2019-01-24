@@ -1,6 +1,6 @@
 # Contributing to ReactXP
 
-We welcome contributions to ReactXP! This gude provides some tips for a successful contributions.
+We welcome contributions to ReactXP! This guide provides some tips for a successful contributions.
 
 For complex changes, we recommend filing a GitHub issue to start a discussion with project maintainers before implementing the change.
 
